@@ -26,7 +26,7 @@ The generation of convolutional images requires the following input: ct_mask.nii
 python cov_img/get_sim_us.py
 ```
 
-## Datasets
+## Inputs
 ![本地图片描述](figure/Fig21.png)
 
 Unfold and overlay the convolutional images with the CT image, and output a three-channel color image.
